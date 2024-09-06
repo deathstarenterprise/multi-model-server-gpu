@@ -36,3 +36,6 @@ with an instantiation of torch.multiprocessing.
 I'm doing my best to keep as much the same as possible, while only making changes with regard to the forking of worker processes and the GPU. 
 
 Check back later for an update, this project was just started.
+
+---
+Original credit for the multi-model-server library: Amazon.com, Inc
